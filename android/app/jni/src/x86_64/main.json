@@ -1,0 +1,212 @@
+{
+  "cacheVersion": "D20210525T193831",
+  "outputFile": "/home/luke/testgame/src/main",
+  "compile": [
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@sstd@sprivate@sdigitsutils.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@sstd@sprivate@sdigitsutils.nim.c.o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@sstd@sprivate@sdigitsutils.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@sstd@sassertions.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@sstd@sassertions.nim.c.o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@sstd@sassertions.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@sstd@sobjectdollar.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@sstd@sobjectdollar.nim.c.o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@sstd@sobjectdollar.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@ssystem@sdollars.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@ssystem@sdollars.nim.c.o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@ssystem@sdollars.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@scollections@ssharedlist.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@scollections@ssharedlist.nim.c.o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@scollections@ssharedlist.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@sstd@ssyncio.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@sstd@ssyncio.nim.c.o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@sstd@ssyncio.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@ssystem.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@ssystem.nim.c.o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@ssystem.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@smath.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@smath.nim.c.o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@smath.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@shashes.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@shashes.nim.c.o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@shashes.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@scollections@stables.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@scollections@stables.nim.c.o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@scollections@stables.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sunicode.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sunicode.nim.c.o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sunicode.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sparseutils.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sparseutils.nim.c.o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sparseutils.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sstrutils.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sstrutils.nim.c.o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sstrutils.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@stimes.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@stimes.nim.c.o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@stimes.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico@skeycodes.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.nimble@spkgs@snico-0.4.9@snico@skeycodes.nim.c.o @m..@s..@s.nimble@spkgs@snico-0.4.9@snico@skeycodes.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@ssdl2_nim-2.0.14.3@ssdl2_nim@ssdl.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.nimble@spkgs@ssdl2_nim-2.0.14.3@ssdl2_nim@ssdl.nim.c.o @m..@s..@s.nimble@spkgs@ssdl2_nim-2.0.14.3@ssdl2_nim@ssdl.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico@scontroller.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.nimble@spkgs@snico-0.4.9@snico@scontroller.nim.c.o @m..@s..@s.nimble@spkgs@snico-0.4.9@snico@scontroller.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico@sringbuffer.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.nimble@spkgs@snico-0.4.9@snico@sringbuffer.nim.c.o @m..@s..@s.nimble@spkgs@snico-0.4.9@snico@sringbuffer.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico@sbackends@scommon.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.nimble@spkgs@snico-0.4.9@snico@sbackends@scommon.nim.c.o @m..@s..@s.nimble@spkgs@snico-0.4.9@snico@sbackends@scommon.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sstreams.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sstreams.nim.c.o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sstreams.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@slexbase.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@slexbase.nim.c.o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@slexbase.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sparsejson.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sparsejson.nim.c.o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sparsejson.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sjson.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sjson.nim.c.o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sjson.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@spathnorm.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@spathnorm.nim.c.o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@spathnorm.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sos.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sos.nim.c.o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sos.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@sstd@ssysrand.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@sstd@ssysrand.nim.c.o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@sstd@ssysrand.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@srandom.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@srandom.nim.c.o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@srandom.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sosproc.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sosproc.nim.c.o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sosproc.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sparsecfg.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sparsecfg.nim.c.o @m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sparsecfg.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snimPNG-0.3.1@snimPNG@snimz.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.nimble@spkgs@snimPNG-0.3.1@snimPNG@snimz.nim.c.o @m..@s..@s.nimble@spkgs@snimPNG-0.3.1@snimPNG@snimz.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snimPNG-0.3.1@snimPNG@sfilters.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.nimble@spkgs@snimPNG-0.3.1@snimPNG@sfilters.nim.c.o @m..@s..@s.nimble@spkgs@snimPNG-0.3.1@snimPNG@sfilters.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snimPNG-0.3.1@snimPNG.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.nimble@spkgs@snimPNG-0.3.1@snimPNG.nim.c.o @m..@s..@s.nimble@spkgs@snimPNG-0.3.1@snimPNG.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico@sstb_vorbis.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.nimble@spkgs@snico-0.4.9@snico@sstb_vorbis.nim.c.o @m..@s..@s.nimble@spkgs@snico-0.4.9@snico@sstb_vorbis.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico@sbackends@ssdl2.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.nimble@spkgs@snico-0.4.9@snico@sbackends@ssdl2.nim.c.o @m..@s..@s.nimble@spkgs@snico-0.4.9@snico@sbackends@ssdl2.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico@sfontdata.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.nimble@spkgs@snico-0.4.9@snico@sfontdata.nim.c.o @m..@s..@s.nimble@spkgs@snico-0.4.9@snico@sfontdata.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.nimble@spkgs@snico-0.4.9@snico.nim.c.o @m..@s..@s.nimble@spkgs@snico-0.4.9@snico.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico@svec.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @m..@s..@s.nimble@spkgs@snico-0.4.9@snico@svec.nim.c.o @m..@s..@s.nimble@spkgs@snico-0.4.9@snico@svec.nim.c"
+    ],
+    [
+      "/home/luke/testgame/android/app/jni/src/x86_64/@mmain.nim.c",
+      "clang -c  -w -ferror-limit=3 -pthread -O3   -I'/home/luke/.choosenim/toolchains/nim-#head/lib' -I/home/luke/testgame/src -o @mmain.nim.c.o @mmain.nim.c"
+    ]
+  ],
+  "link": [
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@sstd@sprivate@sdigitsutils.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@sstd@sassertions.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@sstd@sobjectdollar.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@ssystem@sdollars.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@scollections@ssharedlist.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@sstd@ssyncio.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@ssystem.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@smath.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@shashes.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@scollections@stables.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sunicode.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sparseutils.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sstrutils.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@stimes.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico@skeycodes.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@ssdl2_nim-2.0.14.3@ssdl2_nim@ssdl.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico@scontroller.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico@sringbuffer.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico@sbackends@scommon.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sstreams.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@slexbase.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sparsejson.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sjson.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@spathnorm.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sos.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@sstd@ssysrand.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@srandom.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sosproc.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sparsecfg.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snimPNG-0.3.1@snimPNG@snimz.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snimPNG-0.3.1@snimPNG@sfilters.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snimPNG-0.3.1@snimPNG.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico@sstb_vorbis.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico@sbackends@ssdl2.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico@sfontdata.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico@svec.nim.c.o",
+    "/home/luke/testgame/android/app/jni/src/x86_64/@mmain.nim.c.o"
+  ],
+  "linkcmd": "clang   -o /home/luke/testgame/src/main /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@sstd@sprivate@sdigitsutils.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@sstd@sassertions.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@sstd@sobjectdollar.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@ssystem@sdollars.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@scollections@ssharedlist.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@sstd@ssyncio.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@ssystem.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@smath.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@shashes.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@scollections@stables.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sunicode.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sparseutils.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sstrutils.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@stimes.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico@skeycodes.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@ssdl2_nim-2.0.14.3@ssdl2_nim@ssdl.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico@scontroller.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico@sringbuffer.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico@sbackends@scommon.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sstreams.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@slexbase.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sparsejson.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sjson.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@spathnorm.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sos.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@sstd@ssysrand.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@srandom.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sosproc.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.choosenim@stoolchains@snim-@hhead@slib@spure@sparsecfg.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snimPNG-0.3.1@snimPNG@snimz.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snimPNG-0.3.1@snimPNG@sfilters.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snimPNG-0.3.1@snimPNG.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico@sstb_vorbis.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico@sbackends@ssdl2.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico@sfontdata.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@m..@s..@s.nimble@spkgs@snico-0.4.9@snico@svec.nim.c.o /home/luke/testgame/android/app/jni/src/x86_64/@mmain.nim.c.o  -pthread -lm -lm   -ldl",
+  "extraCmds": [],
+  "configFiles": [
+    "/home/luke/.choosenim/toolchains/nim-#head/config/nim.cfg",
+    "/home/luke/.choosenim/toolchains/nim-#head/config/config.nims",
+    "/home/luke/testgame/config.nims"
+  ],
+  "stdinInput": false,
+  "projectIsCmd": false,
+  "cmdInput": "",
+  "currentDir": "/home/luke/testgame",
+  "cmdline": "",
+  "depfiles": [],
+  "nimexe": ""
+}
